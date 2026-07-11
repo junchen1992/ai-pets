@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "row": "look-row-9",
+  "edge_check": "pass",
+  "registration": "pass",
+  "continuity": "pass",
+  "directions": [
+    {"direction": "000", "expected": "up", "verdict": "pass", "reason": "pupils and muzzle lift while the lower body stays registered"},
+    {"direction": "022.5", "expected": "up-right", "verdict": "pass", "reason": "eyes lead slightly right from the up anchor"},
+    {"direction": "045", "expected": "up-right", "verdict": "pass", "reason": "pupils, muzzle, and head advance evenly into the upper-right quadrant"},
+    {"direction": "067.5", "expected": "up-right", "verdict": "pass", "reason": "head turn approaches the right anchor without a registration jump"},
+    {"direction": "090", "expected": "right", "verdict": "pass", "reason": "pupils and nose point unmistakably toward screen-right"},
+    {"direction": "112.5", "expected": "down-right", "verdict": "pass", "reason": "gaze lowers one step beyond the right anchor"},
+    {"direction": "135", "expected": "down-right", "verdict": "pass", "reason": "head and eyelids continue smoothly down-right"},
+    {"direction": "157.5", "expected": "down-right", "verdict": "pass", "reason": "pose lands one natural step before the down cardinal"}
+  ]
+}

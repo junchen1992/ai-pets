@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "/Users/chenjun/workspace/jnj-angen-ai-commentary/outputs/hatch-pet/juniper",
+  "spritesheet": "/Users/chenjun/workspace/jnj-angen-ai-commentary/outputs/hatch-pet/juniper/final/spritesheet-extended.webp",
+  "validation": "/Users/chenjun/workspace/jnj-angen-ai-commentary/outputs/hatch-pet/juniper/final/validation-extended.json",
+  "chroma_despill": "/Users/chenjun/workspace/jnj-angen-ai-commentary/outputs/hatch-pet/juniper/qa/chroma-despill-extended.json",
+  "contact_sheet": "/Users/chenjun/workspace/jnj-angen-ai-commentary/outputs/hatch-pet/juniper/qa/contact-sheet-extended.png",
+  "direction_sheet": "/Users/chenjun/workspace/jnj-angen-ai-commentary/outputs/hatch-pet/juniper/qa/look-directions.png",
+  "direction_semantics": "/Users/chenjun/workspace/jnj-angen-ai-commentary/outputs/hatch-pet/juniper/qa/direction-semantics.json",
+  "blind_direction_validation": "/Users/chenjun/workspace/jnj-angen-ai-commentary/outputs/hatch-pet/juniper/qa/direction-blind-validation.json",
+  "blind_review_resolution": "/Users/chenjun/workspace/jnj-angen-ai-commentary/outputs/hatch-pet/juniper/qa/blind-review-resolution.json",
+  "continuity": "/Users/chenjun/workspace/jnj-angen-ai-commentary/outputs/hatch-pet/juniper/qa/look-continuity.json",
+  "review": "/Users/chenjun/workspace/jnj-angen-ai-commentary/outputs/hatch-pet/juniper/qa/review.json",
+  "package": "/Users/chenjun/.codex/pets/juniper"
+}

@@ -1,0 +1,4 @@
+visual_qa=pass
+qa_note=All standard-state loops preserve Juniper's identity, scarf, patterned tail, proportions, palette, and silhouette with readable state motion, correct directional gait, no forbidden effects or visible popping; the labeled 16-pose gaze loop resolves both blind-review warnings coherently.
+review_warnings=337.5 horizontal cue is subtle in blind review; 112.5 downward cue is subtle in blind review; continuity metrics show no visible defect in labeled normal-size review.
+repair_rows=none
